@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.footer-page{
+  display: flex;
+    flex-direction: inherit;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+
+.github-img{
+  width: 60px;
+}
+
+.email-img{
+  width: 60px;
+}
+
+.link-img{
+  width: 60px;
+}
